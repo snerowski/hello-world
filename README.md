@@ -1,7 +1,7 @@
 # hello-world
 Quick refresher from the prework on the incoming module for the first week of bootcamp
-# H1 Seve Nerowski 
-## H2 Fun facts 
+# Seve Nerowski 
+## Fun facts 
 1. I have been married for two years, but my wife and I have been together for almost ten years. 
 2. We have a beagle named bella. 
 3. I can quote "The Big Lebowski" from beginning to end. 
